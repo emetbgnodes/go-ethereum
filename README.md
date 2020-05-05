@@ -1,4 +1,15 @@
-## Go Ethereum
+## EmetBG
+
+https://emetbg.com/
+
+https://explorador.emetbg.com/
+
+https://emetbusinessgroup.com/
+
+For more information, read the original whitepaper. 
+https://emetenjoy.com/term/libroBlanco/EN.pdf
+
+
 
 Official Golang implementation of the Ethereum protocol.
 
@@ -31,7 +42,7 @@ make all
 
 ## Executables
 
-The go-ethereum project comes with several wrappers/executables found in the `cmd`
+The EmetBG project comes with several wrappers/executables found in the `cmd`
 directory.
 
 |    Command    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -350,10 +361,10 @@ testing procedures.
 
 ## License
 
-The go-ethereum library (i.e. all code outside of the `cmd` directory) is licensed under the
+The EmetBG library (i.e. all code outside of the `cmd` directory) is licensed under the
 [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html),
 also included in our repository in the `COPYING.LESSER` file.
 
-The go-ethereum binaries (i.e. all code inside of the `cmd` directory) is licensed under the
+The EmetBG binaries (i.e. all code inside of the `cmd` directory) is licensed under the
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), also
 included in our repository in the `COPYING` file.
